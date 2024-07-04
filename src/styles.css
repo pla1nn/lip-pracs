@@ -1,14 +1,4 @@
-h1 {
-    color: hotpink;
-    font-family: cursive;
-  }
-
-p {
-  color: #0f0;
-}
-
-button {
-  width: 100px;
-  height: 30px;
-  border: none;
-}
+@import "./base/reset.css";
+@import "./base/common.css";
+@import "./components/hero.css";
+@import "./components/content.css";
