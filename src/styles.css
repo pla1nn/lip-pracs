@@ -1,0 +1,14 @@
+h1 {
+    color: hotpink;
+    font-family: cursive;
+  }
+
+p {
+  color: #0f0;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border: none;
+}
